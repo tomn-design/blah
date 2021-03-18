@@ -5,7 +5,7 @@
 
 ## Intro
 
-* [Untitled](intro/untitled.md)
+* [Logging into the Huddle CMS](intro/untitled.md)
 
 ## Huddle Collections
 
