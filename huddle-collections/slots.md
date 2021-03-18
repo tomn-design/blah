@@ -28,3 +28,13 @@ Slots are used because in the likely event you need to alter your conference or 
 **This makes shuffling around your sessions and schedule super easy!** 
 {% endhint %}
 
+Once you have configured a slot with and ID, start time and end time, simply click publish **in the top right hand corner** to save your changes. 
+
+{% hint style="info" %}
+## **Publish &gt; Publish now**
+{% endhint %}
+
+\*\*\*\*
+
+\*\*\*\*
+
