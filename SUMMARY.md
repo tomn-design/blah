@@ -23,7 +23,6 @@
 * [Types](huddle-collections/types.md)
 * [Config](huddle-collections/config.md)
 * [Sponsors](huddle-collections/sponsors.md)
-* [Session Logos](huddle-collections/session-logos.md)
 
 ## Adding Copy
 
