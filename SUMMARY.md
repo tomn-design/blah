@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Intro to Huddle](README.md)
+* [Welcome to Huddle Docs](README.md)
+* [Untitled](untitled.md)
 
 ## Getting Started
 
@@ -25,11 +26,11 @@
 * [Sponsors](huddle-collections/sponsors.md)
 * [Session Logos](huddle-collections/session-logos.md)
 
-## Platform Contents
+## Adding Copy
 
-* [Atrium Copy](platform-contents/atrium-copy.md)
-* [FAQ's](platform-contents/faqs.md)
-* [Privacy Policy](platform-contents/privacy-policy.md)
+* [Copy pages](adding-copy/copy-pages.md)
+* [Rich Text Editor](adding-copy/inputting-copy.md)
+* [Privacy Policy](adding-copy/privacy-policy.md)
 
 ## Huddle Media
 
