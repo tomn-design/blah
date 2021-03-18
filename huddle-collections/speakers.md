@@ -6,7 +6,7 @@ description: This section will help you to add speaker profiles easily to Huddle
 
 During your summit you may have a variety of guests or speakers presenting throughout your schedule. Huddle allows you to spotlight these speakers in both the schedule / agenda but also in the specific session pages. 
 
-_&lt;&lt;insert image of the schedule page and session page&gt;&gt;_
+![](../.gitbook/assets/screenshot-2021-03-18-at-11.48.09.png)
 
 A speakers profile consists of **4 main elements:**
 
