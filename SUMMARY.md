@@ -2,6 +2,21 @@
 
 * [Huddle Platform Branding](README.md)
 * [Content Management system \(CMS\)](content-management-system-cms.md)
-* [Adding speakers](adding-speakers.md)
-* [Creating a schedule](creating-a-schedule.md)
+
+## Intro
+
+* [Untitled](intro/untitled.md)
+
+## Huddle Collections
+
+* [Slots](huddle-collections/slots.md)
+* [Sessions](huddle-collections/sessions.md)
+* [Speakers](huddle-collections/speakers.md)
+* [Tracks](huddle-collections/tracks.md)
+* [Themes](huddle-collections/themes.md)
+* [Translators](huddle-collections/translators.md)
+* [Types](huddle-collections/types.md)
+* [Config](huddle-collections/config.md)
+* [Sponsors](huddle-collections/sponsors.md)
+* [Session Logos](huddle-collections/session-logos.md)
 
