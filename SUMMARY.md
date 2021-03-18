@@ -23,4 +23,5 @@
 ---
 
 * [Uploading media](uploading-media.md)
+* [Huddle Platform Branding](huddle-platform-branding.md)
 
