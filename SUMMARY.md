@@ -34,3 +34,7 @@
 
 * [Huddle Platform Branding](assets/huddle-platform-branding.md)
 
+## Huddle Configuration
+
+* [Untitled](huddle-configuration/untitled.md)
+
