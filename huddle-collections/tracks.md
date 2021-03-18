@@ -11,3 +11,11 @@ Tracks consist of two compents:
 
 ![Creating a track.](../.gitbook/assets/screenshot-2021-03-18-at-00.48.33.png)
 
+Once you have added a new track simply click publish **in the top right hand corner** to save your changes. 
+
+{% hint style="info" %}
+## **Publish &gt; Publish now**
+{% endhint %}
+
+\*\*\*\*
+
