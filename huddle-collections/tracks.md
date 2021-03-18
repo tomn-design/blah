@@ -2,7 +2,7 @@
 
 For larger events and conferences its likely that you'll want to split up your sessions into different tracks. This will help direct your attendees down session pathways that may all fall around a particular interest or series of topics. 
 
-**Creating Tracks**
+### **Creating Tracks**
 
 Tracks consist of two compents:
 
