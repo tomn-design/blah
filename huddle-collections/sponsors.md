@@ -20,6 +20,8 @@ The sponsors group indicates the total number of sponsor logos attached to an ev
 * **Logo image  -** Here you will upload your desired sponsor logo or select from the existing assets stored in the Media folder.
 * **Sponsor Tier -**  Huddle currently support 3 tiers of sponsor logos. E.g 'Gold, Silver & Bronze" with level 1 being the highest tier. 
 
+
+
 ### Ordering your sponsors logo
 
 {% hint style="info" %}
