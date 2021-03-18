@@ -22,7 +22,9 @@ Slack buttons will only appear on the Huddle platform once the logged in user ha
 
 #### Attendee List Integration <a id="attendee-list-integration"></a>
 
-If you have our Attendee list funtionality then as your attendees join the Huddle conference and Slack they will be have a new button appear on their Attendee card.![](https://docs.huddle.thinkactivelabs.co.uk/slack-attendee-message.png)
+If you have our Attendee list funtionality then as your attendees join the Huddle conference and Slack they will be have a new button appear on their Attendee card.
+
+![](https://docs.huddle.thinkactivelabs.co.uk/slack-attendee-message.png)
 
 Attendee email addresses in Huddle must match their email address within the event Slack Workspace for the Slack integration to function.
 
@@ -35,7 +37,9 @@ During sessions the Slack integration takes two forms.
 
 **Configuration**
 
-These channels and host contact mechanisms must be configured using the Huddle Content editor. You must configure the following fields on the Session editor:![](https://docs.huddle.thinkactivelabs.co.uk/netlify-slack-session.png)
+These channels and host contact mechanisms must be configured using the Huddle Content editor. You must configure the following fields on the Session editor:
+
+![](https://docs.huddle.thinkactivelabs.co.uk/netlify-slack-session.png)
 
 You can find your Slack User ID by opening Slack by:
 
@@ -53,7 +57,11 @@ The linked Slack channel must exist for this link to work. Linking to channels t
 
 **Using Slack in a Session**
 
-Attendees can participate in the configured Slack channel for the session by clicking the sidebar button `Open Slack Channel`. This will open Slack at the channel for the session.![](https://docs.huddle.thinkactivelabs.co.uk/slack-session-channel.png)
+Attendees can participate in the configured Slack channel for the session by clicking the sidebar button `Open Slack Channel`. This will open Slack at the channel for the session.
 
-Attendees can contact the session host via Slack sidebar button `Contact Host on Slack`. This will open Slack with a direct message to the session organiser.![](https://docs.huddle.thinkactivelabs.co.uk/slack-session-host.png)
+![](https://docs.huddle.thinkactivelabs.co.uk/slack-session-channel.png)
+
+Attendees can contact the session host via Slack sidebar button `Contact Host on Slack`. This will open Slack with a direct message to the session organiser.
+
+![](https://docs.huddle.thinkactivelabs.co.uk/slack-session-host.png)
 
