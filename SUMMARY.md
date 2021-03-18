@@ -7,6 +7,11 @@
 * [Logging into the Huddle CMS](getting-started/untitled.md)
 * [Netlify - Understanding the UI.](getting-started/netlify-understanding-the-ui..md)
 
+## Huddle Integrations
+
+* [Eventbrite Registration](huddle-integrations/untitled.md)
+* [Slack Integration](huddle-integrations/slack-integration.md)
+
 ## Session Contents <a id="huddle-collections"></a>
 
 * [Slots](huddle-collections/slots.md)
@@ -33,8 +38,4 @@
 ## Assets
 
 * [Huddle Platform Branding](assets/huddle-platform-branding.md)
-
-## Huddle Configuration
-
-* [Untitled](huddle-configuration/untitled.md)
 
