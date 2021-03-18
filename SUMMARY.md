@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Huddle Platform Branding](README.md)
-* [Content Management system \(CMS\)](content-management-system-cms.md)
 
 ## Intro
 
 * [Logging into the Huddle CMS](intro/untitled.md)
+* [Netlify - Understanding the UI.](intro/netlify-understanding-the-ui..md)
 
 ## Huddle Collections
 
@@ -19,4 +19,8 @@
 * [Config](huddle-collections/config.md)
 * [Sponsors](huddle-collections/sponsors.md)
 * [Session Logos](huddle-collections/session-logos.md)
+
+---
+
+* [Uploading media](uploading-media.md)
 
