@@ -4,7 +4,7 @@ description: >-
   we'll need in order to style Huddle to your brand guidelines.
 ---
 
-# Huddle Platform Branding
+# Intro to Huddle
 
 ## Branding Checklist
 

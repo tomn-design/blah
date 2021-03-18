@@ -20,7 +20,7 @@ The following elements on the Huddle Platform can customised \(see image for loc
 6. Secondary Accent colour
 7. Sidebar Colour
 
-![](.gitbook/assets/huddle-branding.png)
+![](../.gitbook/assets/huddle-branding.png)
 
 ## 1 - Event Logo
 
@@ -60,7 +60,7 @@ This event icon will also be used as your events **Favicon.**
   
 A **favicon** is a small 16×16 pixel icon that serves as branding for your website. Its main purpose is to help visitors locate your page easier when they have multiple tabs open. Due to their tiny size, favicons work best as simple images or one-to-three characters of text. Favicons are not to be confused with logos but are sometimes the same. Due to its small size and resolution, the favicon may need to be an even smaller sizer or part of a company’s original logo. 
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
 **Favicon:**
@@ -74,7 +74,7 @@ Filetype:  **.JPEG / .PNG**
 
 Throughout the Huddle platform we use accent colours to highlight key elements of teh deisgn and layout for your conference. You can customise these colours to you organisation/ event branding to help maintain a consistant brand image and increased profesionalism. 
 
-![](.gitbook/assets/huddle-branding-2.png)
+![](../.gitbook/assets/huddle-branding-2.png)
 
 #### Primary Accent Colour
 
@@ -90,7 +90,7 @@ For Example: \#FF8c25
 
 The Atrium banner is a perfect way to style the first page attendees will land on after registration. It can be used to highlight the Event's branding, showcase imagery or highlight particular sessions happening at your event. 
 
-![](.gitbook/assets/banner.png)
+![](../.gitbook/assets/banner.png)
 
 {% hint style="info" %}
 **Banner Requirements:**
@@ -106,7 +106,7 @@ Filetype:  **.PNG / .JPEG**
 
 The secondary accent colour is used in conjunction with the primary accent colour on the Huddle Platform. It will be used when multiple interactions are required by attendees to differentiate between options. An example of this is on the session page when a attendee can register for a session and also download a Calendar.ics. This can be seen below: 
 
-![](.gitbook/assets/screenshot-2021-02-08-at-10.23.36.png)
+![](../.gitbook/assets/screenshot-2021-02-08-at-10.23.36.png)
 
 Please submit this as a **HEX value** to ensure correct hue is chosen.
 

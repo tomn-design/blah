@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Huddle Platform Branding](README.md)
+* [Intro to Huddle](README.md)
 
-## Intro
+## Getting Started
 
-* [Logging into the Huddle CMS](intro/untitled.md)
-* [Netlify - Understanding the UI.](intro/netlify-understanding-the-ui..md)
+* [Logging into the Huddle CMS](getting-started/untitled.md)
+* [Netlify - Understanding the UI.](getting-started/netlify-understanding-the-ui..md)
 
 ## Huddle Collections
 
@@ -23,5 +23,8 @@
 ---
 
 * [Uploading media](uploading-media.md)
-* [Huddle Platform Branding](huddle-platform-branding.md)
+
+## Assets
+
+* [Huddle Platform Branding](assets/huddle-platform-branding.md)
 
