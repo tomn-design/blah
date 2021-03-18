@@ -17,7 +17,10 @@ In order to define differences bewteen sessions, Huddle uses 'types.' Types allo
 
 **Which layout should i chose?**
 
-Choosing a layout should be based off the type of session you are trying to run. There a two main types of sessions that s
+I order to determine which layout to choose, you should first ask yourself what is the configuration of that session and where would that session happen if it were to happen at a physical event.  Is it; 
+
+* **"One - Many" \(**broadcast\) - This would include typical plenary sessions where a speaker broadcasts to an audience of many. If you intend on embedding a livestream to attendees and do not require participants to join the zoom room, you should select **"auditorium."**
+* **"Many - Many"** \(interactive\) - This would include typical workshop style environments of much smaller groups sizes between 10-50 people. These people may be engaging in conversations and activites that would typically take place in a smaller room. If so, select **"room"**
 
 ![](../.gitbook/assets/screenshot-2021-03-18-at-12.19.07.png)
 
