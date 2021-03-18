@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to Huddle Docs](README.md)
-* [Untitled](untitled.md)
 
 ## Getting Started
 
@@ -30,11 +29,10 @@
 
 * [Copy pages](adding-copy/copy-pages.md)
 * [Rich Text Editor](adding-copy/inputting-copy.md)
-* [Privacy Policy](adding-copy/privacy-policy.md)
 
 ## Huddle Media
 
-* [Uploading media](huddle-media/uploading-media.md)
+* [Uploading media to the CMS](huddle-media/uploading-media.md)
 
 ## Assets
 
