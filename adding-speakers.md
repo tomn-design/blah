@@ -85,9 +85,9 @@ When adding a
 
 {% tabs %}
 {% tab title="Step 1" %}
-![](.gitbook/assets/docs-speakers-list.png)
+On the left hand side of the CMS navigate to "Speakers" under the collections. This page will visualise all speakers as a scrollable list, arranged in alphabetical order as shown below.
 
-On the left hand side of the CMS navigate to "Speakers" under the collections. This page will visualise all speakers as a scrollable list, arranged in alphabetical order.
+![](.gitbook/assets/docs-speakers-list.png)
 {% endtab %}
 
 {% tab title="Step 2 " %}
@@ -107,6 +107,8 @@ Adding a headshot can be done through two methods:
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
