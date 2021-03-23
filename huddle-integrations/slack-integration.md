@@ -10,7 +10,9 @@ description: >-
 
 In order to setup the slack integration please install our Slack application into your Slack workspace using the button below.[![Add to Slack](https://platform.slack-edge.com/img/add_to_slack.png)](https://slack.com/oauth/v2/authorize?client_id=1692828468469.1708547553937&scope=&user_scope=users:read,users:read.email)
 
-Once you have approved the Slack application install you will end up on a page like this:![](https://docs.huddle.thinkactivelabs.co.uk/slack-token-screen.png)
+Once you have approved the Slack application install you will end up on a page like this:
+
+![](https://docs.huddle.thinkactivelabs.co.uk/slack-token-screen.png)
 
 Please provide the token on this screen to your Huddle account manager. To complete the integration setup!
 
