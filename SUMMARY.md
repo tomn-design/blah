@@ -30,7 +30,7 @@
 * [What is a Static Page?](adding-copy/copy-pages.md)
 * [How to use the Rich Text Editor.](adding-copy/inputting-copy.md)
 * [Adding an Image](adding-copy/adding-an-image/README.md)
-  * [Image Sizing](adding-copy/adding-an-image/image-sizing.md)
+  * [Image Sizing & Aspect Ratios](adding-copy/adding-an-image/image-sizing.md)
 * [Embedding videos](adding-copy/dos-and-donts.md)
 * [HTML & Import Scripts](adding-copy/html-and-import-scripts.md)
 

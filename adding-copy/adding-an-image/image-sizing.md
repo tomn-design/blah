@@ -1,4 +1,4 @@
-# Image Sizing
+# Image Sizing & Aspect Ratios
 
 Huddles CMS will accept the upload of any sized image. _For example_ a _**2000 x 4000px** image._
 
