@@ -28,9 +28,11 @@
 ## Editing Static Pages & Copy <a id="adding-copy"></a>
 
 * [What is a Static Page?](adding-copy/copy-pages.md)
-* [Rich Text Editor](adding-copy/inputting-copy/README.md)
-  * [Untitled](adding-copy/inputting-copy/untitled.md)
-* [Do's and Don'ts](adding-copy/dos-and-donts.md)
+* [How to use the Rich Text Editor.](adding-copy/inputting-copy.md)
+* [Adding an Image](adding-copy/adding-an-image/README.md)
+  * [Image Sizing](adding-copy/adding-an-image/image-sizing.md)
+* [Embedding videos](adding-copy/dos-and-donts.md)
+* [HTML & Import Scripts](adding-copy/html-and-import-scripts.md)
 
 ## Huddle Media
 
