@@ -12,7 +12,7 @@
 * [Eventbrite Registration](huddle-integrations/untitled.md)
 * [Slack Integration](huddle-integrations/slack-integration.md)
 
-## Session Contents <a id="huddle-collections"></a>
+## Session Content <a id="huddle-collections"></a>
 
 * [Slots](huddle-collections/slots.md)
 * [Sessions](huddle-collections/sessions.md)
