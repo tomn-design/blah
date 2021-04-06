@@ -1,6 +1,8 @@
-# Copy pages
+# What is a Static Page?
 
-Copy for pages can be found and edited under the **"Collection - Content".** This lists all the avaible pages for you to edit copy on the Huddle platform. 
+Static pages are pages on the Huddle platfrom that allow you to add custom copy specific to your event. These "Static Pages"  are grouped and sit next to "Huddle Pages". Huddle pages are generic pages that all events will require such as the Home page copy \( registered and unregistered\), privacy pages, community guidlines and FAQ's.
+
+Copy for pages can be found and edited under the **"Collection - Static Pages".** This lists all the avaible pages for you to edit copy on the Huddle platform. 
 
 ![](../.gitbook/assets/screenshot-2021-03-18-at-14.09.09.png)
 

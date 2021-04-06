@@ -10,7 +10,8 @@
 ## Huddle Integrations
 
 * [Eventbrite Registration](huddle-integrations/untitled.md)
-* [Slack Integration](huddle-integrations/slack-integration.md)
+* [Slack Integration](huddle-integrations/slack-integration/README.md)
+  * [Slack \( Free Tier\) - invitations](huddle-integrations/slack-integration/slack-free-tier-invitations.md)
 
 ## Session Content <a id="huddle-collections"></a>
 
@@ -24,10 +25,12 @@
 * [Config](huddle-collections/config.md)
 * [Sponsors](huddle-collections/sponsors.md)
 
-## Adding Copy
+## Editing Static Pages & Copy <a id="adding-copy"></a>
 
-* [Copy pages](adding-copy/copy-pages.md)
-* [Rich Text Editor](adding-copy/inputting-copy.md)
+* [What is a Static Page?](adding-copy/copy-pages.md)
+* [Rich Text Editor](adding-copy/inputting-copy/README.md)
+  * [Untitled](adding-copy/inputting-copy/untitled.md)
+* [Do's and Don'ts](adding-copy/dos-and-donts.md)
 
 ## Huddle Media
 
@@ -35,6 +38,13 @@
 
 ## Assets
 
-* [Huddle Platform Branding](assets/huddle-platform-branding.md)
+* [Huddle Platform Branding](assets/huddle-platform-branding/README.md)
+  * [1 - Event Logo](assets/huddle-platform-branding/1-event-logo.md)
+  * [2 - Organisation Logo](assets/huddle-platform-branding/2-organisation-logo.md)
+  * [3 - Event Icon & Favicon](assets/huddle-platform-branding/3-event-icon-and-favicon.md)
+  * [4 - Primary Accent Colour](assets/huddle-platform-branding/4-primary-accent-colour.md)
+  * [5 - Atrium banner](assets/huddle-platform-branding/5-atrium-banner.md)
+  * [6 - Secondary Accent Colour](assets/huddle-platform-branding/6-secondary-accent-colour.md)
+  * [7 - Sidebar Colour](assets/huddle-platform-branding/7-sidebar-colour.md)
 * [OpenGraph Share images](assets/opengraph-share-images.md)
 
