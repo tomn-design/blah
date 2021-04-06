@@ -36,4 +36,5 @@
 ## Assets
 
 * [Huddle Platform Branding](assets/huddle-platform-branding.md)
+* [OpenGraph Share images](assets/opengraph-share-images.md)
 
