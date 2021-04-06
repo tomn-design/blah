@@ -20,7 +20,6 @@ Its important that these pieces of code are **NOT EDITED** **or changed** as thi
 
 * When editing HTML take care not to remove any Syntax's such as arrows ,"&gt;" or quotations marks "".
 * Ensure `<divs>` are opened and closed correctly.
-* Buttons are listed as `<a class="button is-hud-primary"` 
 
 
 
