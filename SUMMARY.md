@@ -49,4 +49,5 @@
   * [6 - Secondary Accent Colour](assets/huddle-platform-branding/6-secondary-accent-colour.md)
   * [7 - Sidebar Colour](assets/huddle-platform-branding/7-sidebar-colour.md)
 * [OpenGraph Share images](assets/opengraph-share-images.md)
+* [Onboarding Emails](assets/onboarding-emails.md)
 
